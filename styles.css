@@ -1,0 +1,9 @@
+body {
+ background-image: url("back.jpg");
+}
+h1{
+  text-align: center;
+  color: white;
+  font-family: 'Lobster Two', cursive;
+  font-size: 3rem;
+}
